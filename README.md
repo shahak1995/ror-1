@@ -1,6 +1,6 @@
 # ROR-1
 ### Description
-To make a ruby on rails application through following the youtube video and apply the CRUD method to the application which was based on a blog
+To make a ruby on rails application through following the youtube video and apply the CRUD method to the application which was based on a blog site
 
 ### Languages used
 * Ruby
